@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://pin.it/6B69i6yt7"  />
+  <img height="150" src="G:\OKmusi\storage\image\aa.gif"  />
 </div>
 
 ###
