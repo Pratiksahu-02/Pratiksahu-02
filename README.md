@@ -18,5 +18,6 @@
 
 ---
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Pratiksahu/count.svg?" alt="Visitor Counter" />
+  <img src="https://profile-counter.glitch.me/Pratiksahu-02/count.svg?" alt="Visitor Counter" />
 </div>
+  
